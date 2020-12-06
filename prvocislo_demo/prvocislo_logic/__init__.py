@@ -1,6 +1,10 @@
 """
 prvocislo.py
+<<<<<<< HEAD
 autoři: Baška, Lucka, Tomáš
+=======
+Autor: Klimeková Barbora, Kubásková Lucia, Příkaský Tomáš
+>>>>>>> 16b60ab8c3612df0cf1e2e70c21cb1bb273f18d0
 Vytvoř program, který vyhodnotí,
 zdali je vložené číslo prvočíslo.
 Prvočísla mají právě dva dělitele,
