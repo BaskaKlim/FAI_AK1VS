@@ -1,5 +1,6 @@
 """
 prvocislo.py
+Autor: Klimeková Barbora, Kubásková Lucia, Příkaský Tomáš
 Vytvoř program, který vyhodnotí,
 zdali je vložené číslo prvočíslo.
 Prvočísla mají právě dva dělitele,
